@@ -7,7 +7,9 @@
 
 # THANKS
 
-    <all studs>
+    All	students
+	MUST
+	edit this file
 
 # TECHNOLOGY COLOPHON
 
