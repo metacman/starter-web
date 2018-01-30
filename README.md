@@ -8,7 +8,7 @@ Example file to show git commands, repos, github, etc.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos for git Udemy class
 
 ## How To Contribute
 
