@@ -16,4 +16,4 @@ Sample website with plenty of files for demos for git Udemy class
 
 ### Copyright
 
-2018 Udemy git training Clayton TA
+2018 Udemy git training Clayton Tim A
