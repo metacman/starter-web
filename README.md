@@ -18,4 +18,4 @@ fork THEN update
 
 ### Copyright
 
-2018 Udemy git training Clayton Tim A
+2018 For use ONLY in Udemy git training by Clayton Tim A
