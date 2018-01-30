@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <tim> -- <cm> -- <me_tacman@hotmail.com>
 
 # THANKS
 
