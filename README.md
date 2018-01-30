@@ -12,6 +12,8 @@ Sample website with plenty of files for demos for git Udemy class
 
 ## How To Contribute
 
+fork THEN update
+
 ## Deployment
 
 ### Copyright
