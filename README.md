@@ -17,6 +17,8 @@ fork THEN update
 
 ## Deployment
 
+Use standard deploy process
+
 ### Copyright
 
-2018 For use ONLY in Udemy git training by Clayton Tim
+2018 For use ONLY in Udemy 'Git Complete' training class by Clayton Tim
