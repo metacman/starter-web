@@ -1,7 +1,6 @@
 # Starter Web Project
-
+(README file)
 This is a sample website project for showing how to use Git and Github together.
-This line is for the stash lesson 65
 
 ## Introduction
 
@@ -9,7 +8,7 @@ Example file to show git commands, repos, github, etc.
 
 ## Purpose
 
-Sample website with plenty of files for demos for git Udemy class
+This sample website has plenty of files for the 'Git Complete' Udemy class (Instructor=J Taylor)
 
 ## How To Contribute
 
