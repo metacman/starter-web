@@ -4,11 +4,11 @@ This is a sample website project for showing how to use Git and Github together.
 
 ## Introduction
 
-Example file to show git commands, repos, github, etc.
+Example file to show git commands, repositories, github, etc.
 
 ## Purpose
 
-This sample website has plenty of files for the 'Git Complete' Udemy class (Instructor=J Taylor)
+This sample website has plenty of files for the 'Git Complete' Udemy class (Instructor = J Taylor)
 
 ## How To Contribute
 
