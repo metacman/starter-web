@@ -1,6 +1,6 @@
 # Starter Web Project
 (README.md file)
-This is a sample website project for showing how to use Git and Github together.
+This is a sample website project for showing how to use Git and Github.
 
 ## Introduction
 
