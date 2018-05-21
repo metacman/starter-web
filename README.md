@@ -8,7 +8,7 @@ Example file to show git commands, repositories, github, etc.
 
 ## Purpose
 
-This sample website has plenty of files for the 'Git Complete' Udemy class.
+This sample website has plenty of files for the 'Git Complete' Udemy online training class.
 The Instructor is Jason Taylor.
 
 ## How To Contribute
