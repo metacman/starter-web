@@ -9,9 +9,7 @@
 
 # THANKS
 
-    All	students
-	MUST
-	edit this file
+  File edit complete thru 5/25/18
 
 # TECHNOLOGY COLOPHON
 
