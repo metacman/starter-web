@@ -3,12 +3,12 @@
 
 # TEAM
 
-	<tim> -- <cm> -- <me_tacmax@hotmail.com>
-	<lisa> -- <asst.> -- <lelakay_claxton@hotmail.com>
-	<kel> -- <dau> -- <kelli_claxton@outlook.com>
+	<tim> -- <dad> -- <tim@clayton.hom>
+	<lisa> -- <mom> -- <lisa@clayton.hom>
+	<kel> -- <dau> -- <kel@clayton.hom>
 	<heidi> -- <dau> -- <heidi@stidham.net>
 	<loni> -- <dau> -- <loni@eledui.com>
-	<lacey> -- <gdau> -- <lacey@stidham.com>
+	<lacey> -- <gdau> -- <lacey@stidham.net>
 	
 # THANKS
 
