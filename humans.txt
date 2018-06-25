@@ -7,12 +7,14 @@
 	<lisa> -- <mom> -- <lisa@clayton.hom>
 	<kel> -- <dau> -- <kel@clayton.hom>
 	<heidi> -- <dau> -- <heidi@stidham.net>
+	<nathan> -- <sil> -- <nathan@stidham.net>
 	<loni> -- <dau> -- <loni@eledui.com>
+	<garrett> -- <sil> -- <garrett@eledui.com>
 	<lacey> -- <gdau> -- <lacey@stidham.net>
 	
 # THANKS
 
-  File edit complete thru 5/25/18
+  File edit complete thru 6/25/18
 
 # TECHNOLOGY COLOPHON
 
