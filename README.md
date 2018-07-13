@@ -4,7 +4,7 @@ This is a sample website project for showing how to use Git and Github.
 
 ## Introduction
 
-Example file to show git commands, repositories, github, etc.
+This project has examples to learn git commands, repositories, github, etc.
 
 ## Purpose
 
