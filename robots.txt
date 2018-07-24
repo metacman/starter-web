@@ -7,5 +7,6 @@ T-800 - The Terminator
 Data - Star Trek Next Generation
 BB-8 - Star Wars: The Force Awakens
 Hal 9000 - 2001: A Space Odyssey
+T-1000 - Terminator 2: Judgment Day
 
 User-agent: *
