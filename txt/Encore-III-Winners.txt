@@ -22,24 +22,24 @@ Qbase
 Solers
 
 Small Companies (Awarded Sep 2018)
-Amyx
-ASRC Federal
-Compqsoft
-Credence Management Solutions
-Data Computer
-Defense Solutions Group
-Encore III Partners
-FEDITC
-Global Consulting International
-Innovations JV
-Integral Consulting Services
-Integrated Computer Solutions
-Madian IT Solutions
-Mission Services
-New Generation Solutions
-Riverside Engineering
-Siertek-Peerless JV
-Superior Government Solutions
-Team CSI JV
-VSolvit
+Siertek-Peerless JV LLC	"Beavercreek, Ohio"	HC1028-18-D-0021
+Amyx Inc.	"Reston, Virginia"	HC1028-18-D-0022
+ASRC Communications LTD	"Beltsville, Maryland"	HC1028-18-D-0023
+Compqsoft Inc.	"Houston, Texas"	HC1028-18-D-0024
+Credence Management Solutions LLC	"Vienna, Virginia"	HC1028-18-D-0025
+Data Computer Corporation of America	"Ellicott City, Maryland"	HC1028-18-D-0026
+Defense Solutions Group LLC	"Fairfax Station, Virginia"	HC1028-18-D-0027
+Encore III Partners LLC	"Blacksburg, Virginia"	HC1028-18-D-0028
+FEDITC LLC	"Rockville, Maryland"	HC1028-18-D-0029
+Global Consulting International Inc.	"Salt Lake City, Utah"	HC1028-18-D-0030
+Innovations JV LLC	"Chantilly, Virginia"	HC1028-18-D-0031
+Integral Consulting Services Inc.	"Rockville, Maryland"	HC1028-18-D-0032
+Integrated Computer Solutions Inc.	"Montgomery, Alabama"	HC1028-18-D-0033
+Madian IT Solutions LLC	"Reston, Virginia"	HC1028-18-D-0034
+Mission Services LLC	"McLean, Virginia"	HC1028-18-D-0035
+New Generation Solutions LLC	"Leesburg, Virginia"	HC1028-18-D-0036
+Riverside Engineering LLC 	"Vienna, Virginia"	HC1028-18-D-0037
+Superior Government Solutions LLC	"Falls Church, Virginia"	HC1028-18-D-0038
+Team CSI JV LLC	"San Antonio, Texas"	HC1028-18-D-0039
+VSolvit LLC	"Ventura, California"	HC1028-18-D-0040
 
